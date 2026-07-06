@@ -1,2 +1,2 @@
-linha 2 D
-linha 3 A
+linha 2 D c c
+linha 3 A c c
